@@ -1,0 +1,9 @@
+ini adalah resolusi xii pplg2 untuk semester genap 2025
+
+
+-Registrasi API themoviedb.org
+-Registrasi github.com
+-Registrasi gitlab.com
+-Praktik github 
+    . membuat repositori
+    .
